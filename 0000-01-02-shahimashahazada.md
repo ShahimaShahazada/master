@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+0000-01-02-shahima shahazada
 Use the left arrow to go back!--
 
 layout: slide
